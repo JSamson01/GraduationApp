@@ -23,14 +23,14 @@ class ListActivity : AppCompatActivity() {
 
         //val graduationList = arrayListOf<String>(
            // "Tim Owenz",
-           // "Olujide Alabi",
-           // "John Samson",
-           // "Abidemi Stephen",
+           // "Nadia Abai",
+           // "Joshua Samson",
+           // "Abide Stephen",
            // "Victor Kisaka",
            // "Tim Owenz",
-            //"Olujide Alabi",
-           // "John Samson",
-           // "Abidemi Stephen",
+            //"Nadia Abai",
+           // "Joshua Samson",
+           // "Abide Stephen",
            // "Victor Kisaka"
         //)
         val gradAdapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, graduationList)
