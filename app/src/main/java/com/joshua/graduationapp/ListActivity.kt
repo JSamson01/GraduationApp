@@ -22,12 +22,12 @@ class ListActivity : AppCompatActivity() {
             //graduationList.add(1, "$txCourse1")
 
         //val graduationList = arrayListOf<String>(
-           // "Tim Owenz",
+           // "Tim Owen",
            // "Nadia Abai",
            // "Joshua Samson",
            // "Abide Stephen",
            // "Victor Kisaka",
-           // "Tim Owenz",
+           // "Tim Owen",
             //"Nadia Abai",
            // "Joshua Samson",
            // "Abide Stephen",
